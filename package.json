@@ -1,0 +1,25 @@
+{
+  "name": "javascript-for-dummies",
+  "version": "1.0.0",
+  "description": "Javascript Sample Code that help people understanding javascript syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderschoolmentee/javascript-for-dummies.git"
+  },
+  "keywords": [
+    "javascript",
+    "javascript tutorial",
+    "javascript for dummies",
+    "subin"
+  ],
+  "author": "Tran Son Hoang (son.hoang01@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderschoolmentee/javascript-for-dummies/issues"
+  },
+  "homepage": "https://github.com/coderschoolmentee/javascript-for-dummies#readme"
+}
