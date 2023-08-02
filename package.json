@@ -4,7 +4,8 @@
   "description": "Javascript Sample Code that help people understanding javascript syntax",
   "main": "index.js",
   "scripts": {
-    "commit": "git cz"
+    "commit": "git cz",
+    "test": "jest"
   },
   "config": {
     "commitizen": {
@@ -28,6 +29,7 @@
   },
   "homepage": "https://github.com/coderschoolmentee/javascript-for-dummies#readme",
   "devDependencies": {
-    "git-cz": "^4.9.0"
+    "git-cz": "^4.9.0",
+    "jest": "^29.6.2"
   }
 }
