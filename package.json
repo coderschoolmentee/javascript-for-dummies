@@ -4,7 +4,12 @@
   "description": "Javascript Sample Code that help people understanding javascript syntax",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
   },
   "repository": {
     "type": "git",
@@ -21,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/coderschoolmentee/javascript-for-dummies/issues"
   },
-  "homepage": "https://github.com/coderschoolmentee/javascript-for-dummies#readme"
+  "homepage": "https://github.com/coderschoolmentee/javascript-for-dummies#readme",
+  "devDependencies": {
+    "git-cz": "^4.9.0"
+  }
 }

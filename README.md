@@ -1,1 +1,1 @@
-# javascript-for-dummies
+# Javascript for Dummies
